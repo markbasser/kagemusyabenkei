@@ -47,7 +47,7 @@ async def loop():
         
     if now == '05:50':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('<:hai_kao:699072592987947117> <:hello:699779689127870514>') 
+        await channel.send('<:hai_kao:699072592987947117> <:hello1:713004241131667528>') 
         
     if now == '07:00':
         channel = client.get_channel(CHANNEL_ID)
@@ -81,7 +81,7 @@ async def on_message(message):
 
     if message.content == "<:hello:699779689127870514> <:hello:699779689127870514> <:hello:699779689127870514>":
         # チャンネルへメッセージを送信
-        await message.channel.send(f"<:hello:699779689127870514><:hello:699779689127870514>")  # f文字列（フォーマット済み文字列リテラル）
+        await message.channel.send(f"<:hello:699779689127870514><:hello1:713004241131667528>")  # f文字列（フォーマット済み文字列リテラル）
         
     if message.content == "<:hai_kao:699072592987947117> <:ty:699857337980026930>":
         # チャンネルへメッセージを送信
