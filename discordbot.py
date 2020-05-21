@@ -69,6 +69,10 @@ async def loop():
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:hai_kao:699072592987947117> <:gm:699792760651120671>')
         
+    if now == '22:07':
+        channel = client.get_channel(CHANNEL_ID)
+        await channel.send('<:hai_kao:699072592987947117> <:hello1:713004241131667528>')
+        
 #ループ処理実行
 loop.start()
 
