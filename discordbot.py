@@ -31,47 +31,247 @@ async def loop():
     
     if now == '00:34':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('<:hai_kao:699072592987947117><:gm:699792760651120671>')     
+        await channel.send('<:hai_kao:699072592987947117><:gm:699792760651120671>')   
+        
+    if now == '00:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '00:15':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '00:16':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
 
     if now == '01:00':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('🥳') 
         
+    if now == '01:08':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '01:10':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '01:11':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '01:13':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:')     
+        
+    if now == '01:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>') 
+        
     if now == '01:32':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('<:hai_kao:699072592987947117>')  
+        await channel.send('<:hai_kao:699072592987947117>')
+        
+    if now == '02:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '02:16':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:')     
+        
+    if now == '02:18':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>') 
 
     if now == '03:29':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:hai_kao:699072592987947117>') 
+   
+    if now == '04:13':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:')     
+        
+    if now == '04:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')   
         
     if now == '05:50':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:hai_kao:699072592987947117> <:hello1:713004241131667528>') 
         
+    if now == '06:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>') 
+        
     if now == '07:00':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:cafe:699769671234355230>Good morning 🌎everyone.<:hai_kao:699072592987947117> \n Have a nice day today! [omikuji] or [fortune] ← for today is fortune🔮Command')
         
+    if now == '07:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '07:16':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '07:17':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 456.78 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '07:19':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '08:11':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '07:20':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '07:59':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+    
+    if now == '08:10':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '08:11':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '08:13':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:')     
+        
+    if now == '08:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>') 
+        
+    if now == '09:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+          
     if now == '10:00':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:ge:699792780725059664>') 
+        
+    if now == '11:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '12:10':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '12:11':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 456.78 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '12:13':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 777.77 @JPYN member  <:rock:732205759462375475> :guitar:')     
+        
+    if now == '12:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>') 
+        
+    if now == '13:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '13:15':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '13:16':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
      
     if now == '14:14':
-        channel = client.get_channel(CHANNEL_ID)
-        await channel.send('<:hai_kao:699072592987947117> <:gn:699792795363311676>') 
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>') 
+        
+    if now == '15:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '15:15':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '15:16':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
         
     if now == '16:50':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:hai_kao:699072592987947117>') 
+        
+    if now == '17:01':
+        channel = client.get_channel(CHANNEL_ID)
+        await channel.send('<:rock:732205759462375475> <:cool:721313054624841838> <:rock:732205759462375475>')
+        
+    if now == '17:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '17:15':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '17:16':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '19:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>') 
 
     if now == '20:00':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:hai_kao:699072592987947117> <:gm:699792760651120671>')
         
+    if now == '20:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '20:15':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '20:16':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '21:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
     if now == '22:07':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:hai_kao:699072592987947117> <:hello1:713004241131667528>')
+        
+    if now == '22:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '22:15':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '22:16':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '23:14':
+        channel = client.get_channel(731646124770852875)
+        await channel.send('<:rock:732205759462375475> <:cool:721313054624841838> <:rock:732205759462375475>') 
         
 #ループ処理実行
 loop.start()
