@@ -109,31 +109,39 @@ async def loop():
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:cafe:699769671234355230>Good morning 🌎everyone.<:hai_kao:699072592987947117> \n Have a nice day today! [omikuji] or [fortune] ← for today is fortune🔮Command')
         
-    if now == '07:14':
+    if now == '07:38':
         channel = client.get_channel(731640211733479556)
         await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
         
-    if now == '07:16':
+    if now == '07:52':
+        channel = client.get_channel(731640211733479556)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '07:55':
+        channel = client.get_channel(731640211733479556)
+        await channel.send('rsoak 123.45 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '07:56':
         channel = client.get_channel(731640211733479556)
         await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
         
-    if now == '07:17':
-        channel = client.get_channel(731640211733479556)
-        await channel.send('rsoak 456.78 @JPYN member  <:rock:732205759462375475> :guitar:') 
-        
-    if now == '07:19':
-        channel = client.get_channel(731640211733479556)
-        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
-        
-    if now == '08:11':
+    if now == '07:57':
         channel = client.get_channel(731640211733479556)
         await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
-        
-    if now == '07:20':
-        channel = client.get_channel(731640211733479556)
-        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
         
     if now == '07:59':
+        channel = client.get_channel(731640211733479556)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '08:00':
+        channel = client.get_channel(731640211733479556)
+        await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
+        
+    if now == '08:05':
+        channel = client.get_channel(731640211733479556)
+        await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
+        
+    if now == '08:09':
         channel = client.get_channel(731640211733479556)
         await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
     
