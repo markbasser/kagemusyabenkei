@@ -129,6 +129,38 @@ async def loop():
         channel = client.get_channel(769069563094499358)
         await channel.send('//dream 0.01') 
         
+    if now == '05:18':
+        channel = client.get_channel(769753648733225010)
+        await channel.send('$soak 0.001') 
+        
+    if now == '05:19':
+        channel = client.get_channel(769283091800916029)
+        await channel.send('//dream 0.01')     
+        
+    if now == '05:20':
+        channel = client.get_channel(769753648733225010)
+        await channel.send('$soak 0.001') 
+        
+    if now == '05:21':
+        channel = client.get_channel(769283091800916029)
+        await channel.send('//dream 0.01')     
+        
+    if now == '05:22':
+        channel = client.get_channel(769718766358757396)
+        await channel.send('$soak 0.001') 
+        
+    if now == '05:23':
+        channel = client.get_channel(769069563094499358)
+        await channel.send('//dream 0.01') 
+        
+    if now == '05:24':
+        channel = client.get_channel(769718766358757396)
+        await channel.send('$soak 0.001') 
+        
+    if now == '05:25':
+        channel = client.get_channel(769069563094499358)
+        await channel.send('//dream 0.01') 
+        
     if now == '05:50':
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:hai_kao:699072592987947117> <:hello1:713004241131667528>') 
