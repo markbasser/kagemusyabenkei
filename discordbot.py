@@ -89,43 +89,43 @@ async def loop():
         channel = client.get_channel(CHANNEL_ID)
         await channel.send('<:hai_kao:699072592987947117>') 
    
-    if now == '04:13':
+    if now == '04:28':
         channel = client.get_channel(731640211733479556)
         await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:')     
         
-    if now == '04:14':
+    if now == '04:29':
         channel = client.get_channel(731640211733479556)
         await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')  
         
-    if now == '04:18':
+    if now == '04:30':
         channel = client.get_channel(769753648733225010)
         await channel.send('$soak 0.001') 
         
-    if now == '04:19':
+    if now == '04:31':
         channel = client.get_channel(769283091800916029)
         await channel.send('//dream 0.01')     
         
-    if now == '04:20':
+    if now == '04:32':
         channel = client.get_channel(769753648733225010)
         await channel.send('$soak 0.001') 
         
-    if now == '04:21':
+    if now == '04:33':
         channel = client.get_channel(769283091800916029)
         await channel.send('//dream 0.01')     
         
-    if now == '04:22':
+    if now == '04:34':
         channel = client.get_channel(769718766358757396)
         await channel.send('$soak 0.001') 
         
-    if now == '04:23':
+    if now == '04:35':
         channel = client.get_channel(769069563094499358)
         await channel.send('//dream 0.01') 
         
-    if now == '04:24':
+    if now == '04:36':
         channel = client.get_channel(769718766358757396)
         await channel.send('$soak 0.001') 
         
-    if now == '04:25':
+    if now == '04:37':
         channel = client.get_channel(769069563094499358)
         await channel.send('//dream 0.01') 
         
