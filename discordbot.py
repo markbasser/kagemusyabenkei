@@ -397,6 +397,26 @@ async def on_message(message):
         # リアクションアイコンを付けたい
         q = await message.channel.send("rbal")
         [await q.add_reaction(i) for i in ('⭕', '🔑')]  # for文の内包表記 
+        
+    elif message.content == "b/re":
+        # リアクションアイコンを付けたい
+        q = await message.channel.send("//register")
+        [await q.add_reaction(i) for i in ('⭕', '🔑')]  # for文の内包表記 
+        
+    elif message.content == "b/wallet":
+        # リアクションアイコンを付けたい
+        q = await message.channel.send("$wallet")
+        [await q.add_reaction(i) for i in ('⭕', '🔑')]  # for文の内包表記 
+        
+    elif message.content == "b/bal":
+        # リアクションアイコンを付けたい
+        q = await message.channel.send("$allbalance")
+        [await q.add_reaction(i) for i in ('⭕', '🔑')]  # for文の内包表記 
+        
+    elif message.content == "b/dt3":
+        # リアクションアイコンを付けたい
+        q = await message.channel.send("//dream 0.01")
+        [await q.add_reaction(i) for i in ('⭕', '🔑')]  # for文の内包表記 
 
 
 
