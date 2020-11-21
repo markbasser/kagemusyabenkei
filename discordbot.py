@@ -410,7 +410,7 @@ async def on_message(message):
         
     elif message.content == "b/bal":
         # リアクションアイコンを付けたい
-        q = await message.channel.send("$allbalance")
+        q = await message.channel.send("$soak 0.001")
         [await q.add_reaction(i) for i in ('⭕', '🔑')]  # for文の内包表記 
         
     elif message.content == "b/dt3":
