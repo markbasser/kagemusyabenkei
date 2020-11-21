@@ -95,7 +95,39 @@ async def loop():
         
     if now == '04:14':
         channel = client.get_channel(731640211733479556)
-        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')   
+        await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>')  
+        
+    if now == '04:18':
+        channel = client.get_channel(769753648733225010)
+        await channel.send('$soak 0.001') 
+        
+    if now == '04:19':
+        channel = client.get_channel(769283091800916029)
+        await channel.send('//dream 0.01')     
+        
+    if now == '04:20':
+        channel = client.get_channel(769753648733225010)
+        await channel.send('$soak 0.001') 
+        
+    if now == '04:21':
+        channel = client.get_channel(769283091800916029)
+        await channel.send('//dream 0.01')     
+        
+    if now == '04:22':
+        channel = client.get_channel(769718766358757396)
+        await channel.send('$soak 0.001') 
+        
+    if now == '04:23':
+        channel = client.get_channel(769069563094499358)
+        await channel.send('//dream 0.01') 
+        
+    if now == '04:24':
+        channel = client.get_channel(769718766358757396)
+        await channel.send('$soak 0.001') 
+        
+    if now == '04:25':
+        channel = client.get_channel(769069563094499358)
+        await channel.send('//dream 0.01') 
         
     if now == '05:50':
         channel = client.get_channel(CHANNEL_ID)
