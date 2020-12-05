@@ -577,6 +577,22 @@ async def loop():
         channel = client.get_channel(769069563094499358)
         await channel.send('//dream 0.01')
         
+    if now == '20:40':
+        channel = client.get_channel(698653628176531478)
+        await channel.send('/throw JPYN 150 30 EquallyDistributed')
+    
+    if now == '20:42':
+        channel = client.get_channel(709878463733039204)
+        await channel.send('/throw JPYN 150 30 EquallyDistributed')
+
+    if now == '20:44':
+        channel = client.get_channel(733238114478325790)
+        await channel.send('/throw JPYN 150 30 EquallyDistributed')
+        
+    if now == '20:46':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw JPYN 150 30 EquallyDistributed')
+       
     if now == '21:14':
         channel = client.get_channel(731640211733479556)
         await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
