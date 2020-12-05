@@ -592,6 +592,38 @@ async def loop():
     if now == '20:46':
         channel = client.get_channel(741553045481062461)
         await channel.send('/throw JPYN 150 30 EquallyDistributed')
+
+    if now == '20:48':
+        channel = client.get_channel(698653628176531478)
+        await channel.send('/throw BGPT 333 30 EquallyDistributed')
+    
+    if now == '20:50':
+        channel = client.get_channel(709878463733039204)
+        await channel.send('/throw BGPT 333 30 EquallyDistributed')
+
+    if now == '20:52':
+        channel = client.get_channel(733238114478325790)
+        await channel.send('/throw BGPT 333 30 EquallyDistributed')
+        
+    if now == '20:54':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw BGPT 333 30 EquallyDistributed')
+        
+    if now == '20:56':
+        channel = client.get_channel(698653628176531478)
+        await channel.send('/throw BEN 9 30 EquallyDistributed')
+    
+    if now == '20:58':
+        channel = client.get_channel(709878463733039204)
+        await channel.send('/throw BEN 9 30 EquallyDistributed')
+
+    if now == '21:00':
+        channel = client.get_channel(733238114478325790)
+        await channel.send('/throw BEN 9 30 EquallyDistributed')
+        
+    if now == '21:02':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw BEN 9 30 EquallyDistributed')
        
     if now == '21:14':
         channel = client.get_channel(731640211733479556)
