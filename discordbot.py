@@ -381,15 +381,159 @@ async def loop():
         channel = client.get_channel(731640211733479556)
         await channel.send('<:rock:732205759462375475> <:rock:732205759462375475> <:rock:732205759462375475>') 
         
-    if now == '13:14':
+    if now == '12:15':
+        channel = client.get_channel(698653628176531478)
+        await channel.send('/throw JPYN 150 30 EquallyDistributed')
+    
+    if now == '12:17':
+        channel = client.get_channel(709878463733039204)
+        await channel.send('/throw JPYN 150 30 EquallyDistributed')
+
+    if now == '12:19':
+        channel = client.get_channel(733238114478325790)
+        await channel.send('/throw JPYN 150 30 EquallyDistributed')
+        
+    if now == '12:21':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw JPYN 150 30 EquallyDistributed')
+
+    if now == '12:23':
+        channel = client.get_channel(698653628176531478)
+        await channel.send('/throw BGPT 333 30 EquallyDistributed')
+    
+    if now == '12:25':
+        channel = client.get_channel(709878463733039204)
+        await channel.send('/throw BGPT 333 30 EquallyDistributed')
+
+    if now == '12:27':
+        channel = client.get_channel(733238114478325790)
+        await channel.send('/throw BGPT 333 30 EquallyDistributed')
+        
+    if now == '12:29':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw BGPT 333 30 EquallyDistributed')
+        
+    if now == '12:31':
+        channel = client.get_channel(698653628176531478)
+        await channel.send('/throw BEN 9 30 EquallyDistributed')
+    
+    if now == '12:33':
+        channel = client.get_channel(709878463733039204)
+        await channel.send('/throw BEN 9 30 EquallyDistributed')
+
+    if now == '12:35':
+        channel = client.get_channel(733238114478325790)
+        await channel.send('/throw BEN 9 30 EquallyDistributed')
+        
+    if now == '12:37':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw BEN 9 30 EquallyDistributed')
+        
+    if now == '12:39':
+        channel = client.get_channel(698653628176531478)
+        await channel.send('/throw KENJ 1000 30 EquallyDistributed')
+    
+    if now == '12:41':
+        channel = client.get_channel(709878463733039204)
+        await channel.send('/throw KENJ 1000 30 EquallyDistributed')
+
+    if now == '12:43':
+        channel = client.get_channel(733238114478325790)
+        await channel.send('/throw KENJ 1000 30 EquallyDistributed')
+        
+    if now == '12:45':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XPC 1.23456 30 EquallyDistributed')
+        
+    if now == '12:47':
+        channel = client.get_channel(698653628176531478)
+        await channel.send('/throw GDRH 1000 30 EquallyDistributed')
+    
+    if now == '12:49':
+        channel = client.get_channel(709878463733039204)
+        await channel.send('/throw GDRH 1000 30 EquallyDistributed')
+
+    if now == '12:51':
+        channel = client.get_channel(733238114478325790)
+        await channel.send('/throw GDRH 1000 30 EquallyDistributed')
+        
+    if now == '12:53':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XPC 1.23456 30 EquallyDistributed')  
+        
+    if now == '12:55':
+        channel = client.get_channel(698653628176531478)
+        await channel.send('/throw SPRTS 777.333333 30 EquallyDistributed')
+    
+    if now == '12:57':
+        channel = client.get_channel(709878463733039204)
+        await channel.send('/throw SPRTS 777.333333 30 EquallyDistributed')
+
+    if now == '12:59':
+        channel = client.get_channel(733238114478325790)
+        await channel.send('/throw SPRTS 777.333333 30 EquallyDistributed')
+        
+    if now == '13:01':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw SPRTS 789.333333 30 EquallyDistributed') 
+        
+    if now == '13:02':
+        channel = client.get_channel(698653628176531478)
+        await channel.send('/throw DOGE 0.000777 30 EquallyDistributed')
+    
+    if now == '13:03':
+        channel = client.get_channel(709878463733039204)
+        await channel.send('/throw DOGE 0.000777 30 EquallyDistributed')
+
+    if now == '13:05':
+        channel = client.get_channel(733238114478325790)
+        await channel.send('/throw DOGE 0.000777 30 EquallyDistributed')
+        
+    if now == '13:07':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw DOGE 0.000777 30 EquallyDistributed') 
+        
+    if now == '13:09':
+        channel = client.get_channel(698653628176531478)
+        await channel.send('/throw XPC 1.7777 30 EquallyDistributed')
+    
+    if now == '13:11':
+        channel = client.get_channel(709878463733039204)
+        await channel.send('/throw XPC 1.7777 30 EquallyDistributed')
+
+    if now == '13:13':
+        channel = client.get_channel(733238114478325790)
+        await channel.send('/throw XPC 1.7777 30 EquallyDistributed')
+        
+    if now == '13:16':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw DOGE 0.000777 30 EquallyDistributed') 
+
+    if now == '13:18':
+        channel = client.get_channel(698653628176531478)
+        await channel.send('/throw XEM 0.00007777 30 EquallyDistributed')
+    
+    if now == '13:20':
+        channel = client.get_channel(709878463733039204)
+        await channel.send('/throw XEM 0.00007777 30 EquallyDistributed')
+
+    if now == '13:22':
+        channel = client.get_channel(733238114478325790)
+        await channel.send('/throw XEM 0.00007777 30 EquallyDistributed')
+        
+    if now == '13:24':
+        channel = client.get_channel(741553045481062461)
+        await channel.send('/throw XEM 0.00007891 30 EquallyDistributed')    
+        
+    if now == '13:25':
         channel = client.get_channel(731640211733479556)
         await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
         
-    if now == '13:15':
+    if now == '13:26':
         channel = client.get_channel(731640211733479556)
         await channel.send('rsoak 333.33 @JPYN member  <:rock:732205759462375475> :guitar:') 
         
-    if now == '13:16':
+    if now == '13:28':
         channel = client.get_channel(731640211733479556)
         await channel.send('<:rock:732205759462375475> :guitar: <:rock:732205759462375475>') 
         
