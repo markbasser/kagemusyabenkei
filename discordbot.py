@@ -907,9 +907,9 @@ async def on_message(message):
         # チャンネルへメッセージを送信
         await message.channel.send(f"<:hai_kao:699072592987947117> <:tok:700489006009286786>")  # f文字列（フォーマット済み文字列リテラル）
         
-    if message.content == "ｱﾘﾆﾝﾆﾝﾆﾝﾆﾝ=͟͟͞( 'ω' =͟͟͞( 'ω' =͟͟͞)=͟͟͞=͟͟͞( 'ω' =͟͟͞( 'ω' =͟͟͞)ﾆﾝﾆﾝ":
+    if message.content == "!d bamp":
         # チャンネルへメッセージを送信
-        await message.channel.send(f"ｱﾘNinNinNinNin=͟͟͞( 'ω' =͟͟͞( 'ω' =͟͟͞)=͟͟͞=͟͟͞( 'ω' =͟͟͞( 'ω' =͟͟͞)ninnin")  # f文字列（フォーマット済み文字列リテラル）
+        await message.channel.send(f"rtip {message.author.mention} 1")  # f文字列（フォーマット済み文字列リテラル）
         
     if message.content == "三卍( ﾟ∀ﾟ)･∵. ｸﾞﾊｯ!!":
         # チャンネルへメッセージを送信
