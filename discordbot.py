@@ -909,11 +909,19 @@ async def on_message(message):
         
     if message.content == "!d bump":
         # チャンネルへメッセージを送信
-        await message.channel.send(f"rtip {message.author.mention} 25")  # f文字列（フォーマット済み文字列リテラル）
+        await message.channel(699205292910575657).send(f"rtip {message.author.mention} 25")  # f文字列（フォーマット済み文字列リテラル）
         
     if message.content == "!disboard bump":
         # チャンネルへメッセージを送信
-        await message.channel.send(f"rtip {message.author.mention} 25")  # f文字列（フォーマット済み文字列リテラル）
+        await message.channel(699205292910575657).send(f"rtip {message.author.mention} 25")  # f文字列（フォーマット済み文字列リテラル）
+
+    if message.content == "!d bump":
+        # チャンネルへメッセージを送信
+        await message.channel(741542690490941470).send(f"rtip {message.author.mention} 25")  # f文字列（フォーマット済み文字列リテラル）
+        
+    if message.content == "!disboard bump":
+        # チャンネルへメッセージを送信
+        await message.channel(741542690490941470).send(f"rtip {message.author.mention} 25")  # f文字列（フォーマット済み文字列リテラル）
     
     if message.content == "三卍( ﾟ∀ﾟ)･∵":
         # チャンネルへメッセージを送信
